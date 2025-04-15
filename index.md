@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Les ateliers de Marsou
 ---
 
+Prochains événements et ateliers
